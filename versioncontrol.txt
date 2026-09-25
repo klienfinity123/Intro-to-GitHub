@@ -1,0 +1,1 @@
+Version Control is used to track and manage the changes to files throughout the whole duration of software development
